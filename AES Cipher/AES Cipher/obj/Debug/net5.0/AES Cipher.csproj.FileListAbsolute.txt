@@ -1,0 +1,16 @@
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\bin\Debug\net5.0\AES Cipher.exe
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\bin\Debug\net5.0\AES Cipher.deps.json
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\bin\Debug\net5.0\AES Cipher.runtimeconfig.json
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\bin\Debug\net5.0\AES Cipher.runtimeconfig.dev.json
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\bin\Debug\net5.0\AES Cipher.dll
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\bin\Debug\net5.0\ref\AES Cipher.dll
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\bin\Debug\net5.0\AES Cipher.pdb
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\AES Cipher.csproj.AssemblyReference.cache
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\AES Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\AES Cipher.AssemblyInfoInputs.cache
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\AES Cipher.AssemblyInfo.cs
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\AES Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\AES Cipher.dll
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\ref\AES Cipher.dll
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\AES Cipher.pdb
+C:\Users\Vartotojas\Documents\C# programavimas\AES algoritmas\AES Cipher\AES Cipher\obj\Debug\net5.0\AES Cipher.genruntimeconfig.cache
